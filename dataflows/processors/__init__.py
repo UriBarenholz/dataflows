@@ -10,6 +10,7 @@ from .checkpoint import checkpoint
 from .concatenate import concatenate
 from .delete_fields import delete_fields
 from .duplicate import duplicate
+from .split import split
 from .filter_rows import filter_rows
 from .find_replace import find_replace
 from .join import join, join_self
